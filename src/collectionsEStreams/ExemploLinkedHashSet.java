@@ -17,8 +17,8 @@ public class ExemploLinkedHashSet {
 
         sequenciaNumerica.add(13);
         sequenciaNumerica.add(277);
-        sequenciaNumerica.add(1);
-        sequenciaNumerica.add(81);
+        sequenciaNumerica.add(4);
+        sequenciaNumerica.add(8);
         sequenciaNumerica.add(16);
 
         System.out.println(sequenciaNumerica);

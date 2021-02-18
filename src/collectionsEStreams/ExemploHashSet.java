@@ -55,7 +55,6 @@ public class ExemploHashSet {
             System.out.println(nota);
         }
 
-        // Limpando o set
         notasAlunos.clear();
 
         // Retorna se o set está vazio ou não
