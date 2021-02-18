@@ -11,12 +11,6 @@ public class ExemploHashSet {
      - Não permite valores repetidos;
      - Por não ser ordenado nem permitir repetição, é a implementação mais performática, quando falando da leitura dos dados.
 
-    TreeSet:
-     - Usa-se quando é necessário alterar a ordem, através do uso de comparators;
-     - Mantém ordem e pode ser reordenado;
-     - É performático para leitura. Para modificação tem a necessidade de reordenar, sendo mais lento que o LinkedHashSet;
-
-
 
     java.util.Set
 
