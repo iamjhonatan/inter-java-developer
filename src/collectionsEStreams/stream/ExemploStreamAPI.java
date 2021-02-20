@@ -74,8 +74,6 @@ public class ExemploStreamAPI {
         .filter((estudante) ->
                 estudante.toLowerCase().contains("r"))
         .collect(Collectors.toList()));
-
-
     }
 
 }
