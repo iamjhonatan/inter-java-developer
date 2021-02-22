@@ -1,4 +1,4 @@
-package desenvolvimentoAvancJava;
+package desenvolvimentoAvancJava.paradigmaFuncional;
 
 public class FuncaoAltaOrdem {
 

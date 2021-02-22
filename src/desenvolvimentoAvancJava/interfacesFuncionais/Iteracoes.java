@@ -1,4 +1,4 @@
-package desenvolvimentoAvancJava;
+package desenvolvimentoAvancJava.interfacesFuncionais;
 
 import java.util.ArrayList;
 import java.util.List;

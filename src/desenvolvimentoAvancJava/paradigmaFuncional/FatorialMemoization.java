@@ -1,4 +1,4 @@
-package desenvolvimentoAvancJava;
+package desenvolvimentoAvancJava.paradigmaFuncional;
 
 import java.util.HashMap;
 import java.util.Map;

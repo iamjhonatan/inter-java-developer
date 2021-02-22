@@ -1,4 +1,4 @@
-package desenvolvimentoAvancJava;
+package desenvolvimentoAvancJava.interfacesFuncionais;
 
 import java.util.function.Predicate;
 
