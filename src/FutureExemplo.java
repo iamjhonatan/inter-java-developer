@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 public class FutureExemplo {
     private static final ExecutorService pessoasParaExecutarAtividade = Executors.newFixedThreadPool(3);
@@ -13,6 +14,8 @@ public class FutureExemplo {
         pessoasParaExecutarAtividade.shutdown();
     }
 }
+
+
 
 class Casa {
     private List<Comodo> comodos;
